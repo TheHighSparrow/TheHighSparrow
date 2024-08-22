@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Devraj Meena 3rd year undergrad at MNITJAIPUR
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently learning Android Development and Data structures and Algorithm
 - 📫 How to reach me - 2022uec1631@mnit.ac.in
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i lift weights :)
